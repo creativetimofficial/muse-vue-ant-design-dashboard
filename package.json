@@ -26,6 +26,8 @@
     "@vue/cli-service": "4.5.13",
     "node-sass": "6.0.1",
     "sass-loader": "^10",
-    "vue-template-compiler": "2.6.14"
+    "vue-template-compiler": "2.6.14",
+    "gulp": "4.0.2",
+    "gulp-append-prepend": "1.0.9"
   }
 }
