@@ -1,10 +1,10 @@
 {
-  "name": "muse-vue-ant-design",
+  "name": "muse-vue-ant-design-dashboard",
   "version": "1.0.0",
   "description": "A user-friendly, open source and beautiful dashboard based on Ant Design Vue.",
   "main": "src/main.js",
-  "homepage": "https://demos.creative-tim.com/muse-ant-vue/",
-  "repository": "https://github.com/creativetimofficial/muse-ant-vue",
+  "homepage": "https://demos.creative-tim.com/muse-ant-design-dashboard/",
+  "repository": "https://github.com/creativetimofficial/muse-ant-design-dashboard",
   "license": "MIT",
   "private": true,
   "scripts": {
