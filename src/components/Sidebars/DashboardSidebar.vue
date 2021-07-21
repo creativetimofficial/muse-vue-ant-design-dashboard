@@ -122,7 +122,7 @@
 					</span>
 					<h6>Need Help?</h6>
 					<p>Please check our docs</p>
-					<a-button type="primary" href="https://demos.creative-tim.com/muse-vue-ant-design/documentation" block target="_blank">
+					<a-button type="primary" href="https://demos.creative-tim.com/muse-vue-ant-design-dashboard/documentation" block target="_blank">
 						DOCUMENTATION
 					</a-button>
 				</div>
