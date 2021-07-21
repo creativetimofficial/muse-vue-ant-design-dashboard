@@ -15,6 +15,14 @@
 		overflow: auto;
 	}
 
+	&:not(.layout-dashboard-rtl) .ant-layout-sider .brand img {
+		margin-right: 5px;
+	}
+
+	&.layout-dashboard-rtl .ant-layout-sider .brand img {
+		margin-left: 5px;
+	}
+
 	// Primary Sidebar
 	.ant-layout-sider.sider-primary {
 		width: 250px;
@@ -60,6 +68,8 @@
 
 		.brand {
 			font-weight: $fw-semibold;
+			padding: $submenu-links-p;
+
 			span {
 				vertical-align: middle;
 			}
@@ -119,7 +129,7 @@
 			}
 
 			a {
-				padding: 10px 16px;
+				padding: $submenu-links-p;
 				color: $color-gray-12;
 				border-radius: 8px;
 			}
