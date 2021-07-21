@@ -112,15 +112,8 @@
 			}
 			.download {
 				margin-top: 20px;
-				.ant-btn {
-					margin: 5px 0;
-					height: 40px;
-					border-radius: 6px;
-				}
 			}
 			.github-stars {
-				margin-top: 20px;
-				text-align: center;
 				.ant-btn {
 					margin: 0;
 					color: $color-gray-9;
@@ -271,13 +264,14 @@
 			margin-top: 20px;
 			.ant-btn {
 				margin: 5px 0;
-				height: 40px;
-				border-radius: 6px;
 			}
 		}
 		.github-stars {
 			margin-top: 20px;
 			text-align: center;
+			display: flex;
+			justify-content: center;
+			
 			.ant-btn {
 				margin: 0;
 				color: $color-gray-9;
