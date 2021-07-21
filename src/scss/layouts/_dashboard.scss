@@ -329,7 +329,8 @@
 			p {
 				color: $color-gray-3;
 			}
-			button {
+			button,
+			a {
 				background-color: $color-gray-1;
 				color: $color-gray-12;
 			}
@@ -351,7 +352,8 @@
 				p {
 					color: $color-gray-3;
 				}
-				button {
+				button,
+				a {
 					background-color: $color-gray-1;
 					border-color: $color-gray-4;
 					color: $color-gray-12;
