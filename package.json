@@ -1,0 +1,29 @@
+{
+  "name": "muse-ant-vue",
+  "version": "1.0.0",
+  "description": "A user-friendly, open source and beautiful dashboard based on Ant Design Vue.",
+  "main": "src/main.js",
+  "homepage": "https://demos.creative-tim.com/muse-ant-vue/",
+  "repository": "https://github.com/creativetimofficial/muse-ant-vue",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.5",
+    "chart.js": "^3.3.2",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
