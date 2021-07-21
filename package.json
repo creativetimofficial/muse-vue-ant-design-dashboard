@@ -1,5 +1,5 @@
 {
-  "name": "muse-ant-vue",
+  "name": "muse-vue-ant-design",
   "version": "1.0.0",
   "description": "A user-friendly, open source and beautiful dashboard based on Ant Design Vue.",
   "main": "src/main.js",
