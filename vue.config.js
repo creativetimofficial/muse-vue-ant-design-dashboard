@@ -1,6 +1,6 @@
 module.exports = {
 	runtimeCompiler: true,
-
+	publicPath: '/muse-vue-ant-design/',
 	chainWebpack: config => {
 		config
 			.plugin('html')
