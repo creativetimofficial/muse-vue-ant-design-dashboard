@@ -1,7 +1,7 @@
 <template>
 
 	<!-- Master Card -->
-	<a-card class="card-credit header-solid h-full">
+	<a-card class="card-credit header-solid h-full" style="background-image: url('images/info-card-3.jpg')">
 		<template #title>
 			<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 22.5 20.625">
 				<g id="wifi" transform="translate(0.75 0.75)">
@@ -38,7 +38,7 @@
 		data() {
 			return {
 			}
-		},
+		}
 	})
 
 </script>
