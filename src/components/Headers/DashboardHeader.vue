@@ -104,7 +104,7 @@
 	const notificationsData = [
 		{
 			title: 'New message from Sophie',
-			img: '/images/face-1.jpg',
+			img: 'images/face-1.jpg',
 			time: '13 minutes ago',
 		},
 		{
