@@ -13,7 +13,7 @@
 		:class="['ant-layout-sider-' + sidebarColor, 'ant-layout-sider-' + sidebarTheme]"
 		theme="light"
 		:style="{ backgroundColor: 'transparent',}">
-			<div class="brand"><img src="~@/assets/logo-ct-black.png" alt=""> <span>Muse Dashboard</span></div>
+			<div class="brand"><img src="images/logo-ct-black.png" alt=""> <span>Muse Dashboard</span></div>
 			<hr>
 
 			<!-- Sidebar Navigation Menu -->
