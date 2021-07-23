@@ -42,7 +42,7 @@
 export default {
 	head () {
 		return {
-			title: 'License | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'License | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'description' }
 			]

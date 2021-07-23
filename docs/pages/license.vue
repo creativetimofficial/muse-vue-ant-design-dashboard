@@ -35,7 +35,7 @@
 export default {
 	head () {
 		return {
-			title: 'License | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'License | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Learn more about the licenses Creative Tim offers and purchase the one that covers the needs of your project.' }
 			]

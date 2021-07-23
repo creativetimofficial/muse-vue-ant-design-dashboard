@@ -140,7 +140,7 @@
 export default {
 	head () {
 		return {
-			title: 'Tooltip | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Tooltip | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'A simple text popup tip.' }
 			]

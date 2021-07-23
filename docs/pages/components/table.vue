@@ -337,7 +337,7 @@
 export default {
 	head () {
 		return {
-			title: 'Table | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Table | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'A table displays rows of data.' }
 			]

@@ -306,7 +306,7 @@
 export default {
 	head () {
 		return {
-			title: 'Card | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Card | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Simple rectangular container.' }
 			]

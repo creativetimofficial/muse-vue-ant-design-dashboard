@@ -58,7 +58,7 @@
 export default {
 	head () {
 		return {
-			title: 'Tabs | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Tabs | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Tabs make it easy to switch between different views.' }
 			]

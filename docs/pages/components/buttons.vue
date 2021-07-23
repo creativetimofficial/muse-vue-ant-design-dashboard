@@ -266,7 +266,7 @@
 export default {
 	head () {
 		return {
-			title: 'Button | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Button | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'To trigger an operation.' }
 			]

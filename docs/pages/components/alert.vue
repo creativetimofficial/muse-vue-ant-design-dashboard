@@ -70,7 +70,7 @@
 export default {
 	head () {
 		return {
-			title: 'Alert | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Alert | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Alert component for feedback.' }
 			]

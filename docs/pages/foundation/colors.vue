@@ -401,7 +401,7 @@
 export default {
 	head () {
 		return {
-			title: 'Colors | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Colors | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.' }
 			]

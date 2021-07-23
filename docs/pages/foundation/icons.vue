@@ -105,7 +105,7 @@
 export default {
 	head () {
 		return {
-			title: 'Icons | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Icons | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Semantic vector graphics.' }
 			]

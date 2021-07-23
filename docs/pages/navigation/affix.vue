@@ -54,7 +54,7 @@
 export default {
 	head () {
 		return {
-			title: 'Affix | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Affix | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Make an element stick to viewport.' }
 			]

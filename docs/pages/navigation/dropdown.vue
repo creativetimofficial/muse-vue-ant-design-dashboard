@@ -104,7 +104,7 @@
 export default {
 	head () {
 		return {
-			title: 'Dropdown | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Dropdown | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'desDropdownription', name: 'description', content: 'A dropdown list.' }
 			]

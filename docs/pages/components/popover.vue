@@ -211,7 +211,7 @@
 export default {
 	head () {
 		return {
-			title: 'Popover | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Popover | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'The floating card popped by clicking or hovering.' }
 			]

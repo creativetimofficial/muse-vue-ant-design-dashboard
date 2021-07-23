@@ -246,7 +246,7 @@
 export default {
 	head () {
 		return {
-			title: 'Typography | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Typography | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Documentation and examples for Muse Dashboard typography.' }
 			]

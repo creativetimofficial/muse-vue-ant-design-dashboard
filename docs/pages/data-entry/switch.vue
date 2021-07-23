@@ -48,7 +48,7 @@
 export default {
 	head () {
 		return {
-			title: 'Switch | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Switch | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Switching Selector.' }
 			]

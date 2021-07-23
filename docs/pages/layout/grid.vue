@@ -72,7 +72,7 @@
 export default {
 	head () {
 		return {
-			title: 'Grid | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Grid | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: '24 Grids System' }
 			]

@@ -71,7 +71,7 @@
 export default {
 	head () {
 		return {
-			title: 'Quick Start | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Quick Start | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Ant Design Vue is dedicated to providing a good development experience for programmers.' }
 			]

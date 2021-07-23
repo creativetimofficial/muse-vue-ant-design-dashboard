@@ -49,7 +49,7 @@
 export default {
 	head () {
 		return {
-			title: 'Avatar | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Avatar | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Avatars can be used to represent people or objects. It supports images, ‘Icon’s, or letters.' }
 			]

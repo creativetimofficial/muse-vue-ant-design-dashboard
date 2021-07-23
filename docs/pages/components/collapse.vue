@@ -54,7 +54,7 @@
 export default {
 	head () {
 		return {
-			title: 'Collapse | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Collapse | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'A content area which can be collapsed and expanded.' }
 			]

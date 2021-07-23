@@ -105,7 +105,7 @@
 export default {
 	head () {
 		return {
-			title: 'Badge | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Badge | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Small numerical value or status descriptor for UI elements.' }
 			]

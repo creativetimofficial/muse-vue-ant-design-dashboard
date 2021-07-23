@@ -61,7 +61,7 @@
 export default {
 	head () {
 		return {
-			title: 'Ant Design of Vue | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Ant Design of Vue | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Following the Ant Design specification, we developed a Vue UI library antd that contains a set of high quality components and demos for building rich, interactive user interfaces.' }
 			]

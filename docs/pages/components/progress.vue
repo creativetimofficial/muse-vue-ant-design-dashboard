@@ -55,7 +55,7 @@
 export default {
 	head () {
 		return {
-			title: 'Progress | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Progress | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Display the current progress of an operation flow.' }
 			]

@@ -80,7 +80,7 @@
 export default {
 	head () {
 		return {
-			title: 'Upload | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Upload | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Upload file by selecting or dragging.' }
 			]

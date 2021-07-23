@@ -51,7 +51,7 @@
 export default {
 	head () {
 		return {
-			title: 'Checkbox | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Checkbox | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Checkbox component' }
 			]

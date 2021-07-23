@@ -54,7 +54,7 @@
 export default {
 	head () {
 		return {
-			title: 'Pagination | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Pagination | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'A long list can be divided into several pages by ‘Pagination’, and only one page will be loaded at a time.' }
 			]

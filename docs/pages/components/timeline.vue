@@ -100,7 +100,7 @@
 export default {
 	head () {
 		return {
-			title: 'Timeline | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Timeline | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Vertical display timeline.' }
 			]

@@ -82,7 +82,7 @@
 export default {
 	head () {
 		return {
-			title: 'Layout | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Layout | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Handling the overall layout of a page.' }
 			]

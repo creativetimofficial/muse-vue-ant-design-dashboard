@@ -75,7 +75,7 @@
 export default {
 	head () {
 		return {
-			title: 'Menu | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Menu | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'A versatile menu for navigation.' }
 			]

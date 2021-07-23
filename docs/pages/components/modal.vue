@@ -75,7 +75,7 @@
 export default {
 	head () {
 		return {
-			title: 'Modal | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Modal | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'Modal dialogs.' }
 			]

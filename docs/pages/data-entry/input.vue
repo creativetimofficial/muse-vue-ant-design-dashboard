@@ -108,7 +108,7 @@
 export default {
 	head () {
 		return {
-			title: 'Input | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Input | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'A basic widget for getting the user input is a text field.' }
 			]

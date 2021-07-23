@@ -132,7 +132,7 @@ const formTailLayout = {
 export default {
 	head () {
 		return {
-			title: 'Form | Muse Dashboard Ant Design Vue @ Creative Tim',
+			title: 'Form | Muse Vue Ant Design Dashboard @ Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: `Form is used to collect, validate, and submit the user input, usually
 						contains various form items including checkbox, radio, input, select,
