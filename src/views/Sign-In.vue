@@ -52,7 +52,7 @@
 
 			<!-- Sign In Image Column -->
 			<a-col :span="24" :md="12" :lg="12" :xl="12" class="col-img">
-				<img src="/images/img-signin.jpg" alt="">
+				<img src="images/img-signin.jpg" alt="">
 			</a-col>
 			<!-- Sign In Image Column -->
 

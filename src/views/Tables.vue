@@ -89,7 +89,7 @@
 		{
 			key: '1',
 			author: {
-				avatar: '/images/face-2.jpg',
+				avatar: 'images/face-2.jpg',
 				name: 'Michael John',
 				email: 'michael@mail.com',
 			},
@@ -103,7 +103,7 @@
 		{
 			key: '2',
 			author: {
-				avatar: '/images/face-3.jpg',
+				avatar: 'images/face-3.jpg',
 				name: 'Alexa Liras',
 				email: 'alexa@mail.com',
 			},
@@ -117,7 +117,7 @@
 		{
 			key: '3',
 			author: {
-				avatar: '/images/face-1.jpg',
+				avatar: 'images/face-1.jpg',
 				name: 'Laure Perrier',
 				email: 'laure@mail.com',
 			},
@@ -131,7 +131,7 @@
 		{
 			key: '4',
 			author: {
-				avatar: '/images/face-4.jpg',
+				avatar: 'images/face-4.jpg',
 				name: 'Miriam Eric',
 				email: 'miriam@mail.com',
 			},
@@ -145,7 +145,7 @@
 		{
 			key: '5',
 			author: {
-				avatar: '/images/face-5.jpeg',
+				avatar: 'images/face-5.jpeg',
 				name: 'Richard Gran',
 				email: 'richard@mail.com',
 			},
@@ -159,7 +159,7 @@
 		{
 			key: '6',
 			author: {
-				avatar: '/images/face-6.jpeg',
+				avatar: 'images/face-6.jpeg',
 				name: 'John Levi',
 				email: 'john@mail.com',
 			},
@@ -208,7 +208,7 @@
 			key: '1',
 			company: {
 				name: 'Spotify Version',
-				logo: '/images/logos/logo-spotify.svg',
+				logo: 'images/logos/logo-spotify.svg',
 			},
 			status: "working",
 			budget: '$14,000',
@@ -218,7 +218,7 @@
 			key: '2',
 			company: {
 				name: 'Progress Track',
-				logo: '/images/logos/logo-atlassian.svg',
+				logo: 'images/logos/logo-atlassian.svg',
 			},
 			status: "working",
 			budget: '$3,000',
@@ -228,7 +228,7 @@
 			key: '3',
 			company: {
 				name: 'Jira Platform Errors',
-				logo: '/images/logos/logo-slack.svg',
+				logo: 'images/logos/logo-slack.svg',
 			},
 			status: "done",
 			budget: 'Not Set',
@@ -241,7 +241,7 @@
 			key: '4',
 			company: {
 				name: 'Launch new Mobile App',
-				logo: '/images/logos/logo-spotify.svg',
+				logo: 'images/logos/logo-spotify.svg',
 			},
 			status: "canceled",
 			budget: '$20,600',
@@ -254,7 +254,7 @@
 			key: '5',
 			company: {
 				name: 'Web Dev',
-				logo: '/images/logos/logo-webdev.svg',
+				logo: 'images/logos/logo-webdev.svg',
 			},
 			status: "working",
 			budget: '$4,000',
@@ -264,7 +264,7 @@
 			key: '6',
 			company: {
 				name: 'Redesign Online Store',
-				logo: '/images/logos/logo-invision.svg',
+				logo: 'images/logos/logo-invision.svg',
 			},
 			status: "canceled",
 			budget: '$2,000',

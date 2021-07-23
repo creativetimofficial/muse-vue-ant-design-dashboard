@@ -193,9 +193,9 @@
 			key: '1',
 			company: {
 				name: 'Soft UI Shopify Version',
-				logo: '/images/logos/logo-shopify.svg',
+				logo: 'images/logos/logo-shopify.svg',
 			},
-			members: [ "/images/face-1.jpg", "/images/face-4.jpg", "/images/face-2.jpg", "/images/face-3.jpg", ],
+			members: [ "images/face-1.jpg", "images/face-4.jpg", "images/face-2.jpg", "images/face-3.jpg", ],
 			budget: '$14,000',
 			completion: 60,
 		},
@@ -203,9 +203,9 @@
 			key: '2',
 			company: {
 				name: 'Progress Track',
-				logo: '/images/logos/logo-atlassian.svg',
+				logo: 'images/logos/logo-atlassian.svg',
 			},
-			members: [ "/images/face-4.jpg", "/images/face-3.jpg", ],
+			members: [ "images/face-4.jpg", "images/face-3.jpg", ],
 			budget: '$3,000',
 			completion: 10,
 		},
@@ -213,9 +213,9 @@
 			key: '3',
 			company: {
 				name: 'Fix Platform Errors',
-				logo: '/images/logos/logo-slack.svg',
+				logo: 'images/logos/logo-slack.svg',
 			},
-			members: [ "/images/face-1.jpg", "/images/face-2.jpg", "/images/face-3.jpg", ],
+			members: [ "images/face-1.jpg", "images/face-2.jpg", "images/face-3.jpg", ],
 			budget: 'Not Set',
 			completion: {
 				label: '100',
@@ -227,9 +227,9 @@
 			key: '4',
 			company: {
 				name: 'Launch new Mobile App',
-				logo: '/images/logos/logo-spotify.svg',
+				logo: 'images/logos/logo-spotify.svg',
 			},
-			members: [ "/images/face-1.jpg", "/images/face-2.jpg", ],
+			members: [ "images/face-1.jpg", "images/face-2.jpg", ],
 			budget: '$20,600',
 			completion: {
 				label: '100',
@@ -241,9 +241,9 @@
 			key: '5',
 			company: {
 				name: 'Add the New Landing Page',
-				logo: '/images/logos/logo-jira.svg',
+				logo: 'images/logos/logo-jira.svg',
 			},
-			members: [ "/images/face-1.jpg", "/images/face-4.jpg", "/images/face-2.jpg", "/images/face-3.jpg", ],
+			members: [ "images/face-1.jpg", "images/face-4.jpg", "images/face-2.jpg", "images/face-3.jpg", ],
 			budget: '$4,000',
 			completion: 80,
 		},
@@ -251,9 +251,9 @@
 			key: '6',
 			company: {
 				name: 'Redesign Online Store',
-				logo: '/images/logos/logo-invision.svg',
+				logo: 'images/logos/logo-invision.svg',
 			},
-			members: [ "/images/face-1.jpg", "/images/face-4.jpg", "/images/face-3.jpg", ],
+			members: [ "images/face-1.jpg", "images/face-4.jpg", "images/face-3.jpg", ],
 			budget: '$2,000',
 			completion: {
 				label: 'Cancelled',

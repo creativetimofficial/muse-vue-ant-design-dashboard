@@ -17,7 +17,7 @@
 		<a-row :gutter="[24, 24]">
 			<a-col :span="24" :md="12">
 				<a-card class="payment-method-card">
-					<img src="/images/logos/mastercard-logo.png" alt="">
+					<img src="images/logos/mastercard-logo.png" alt="">
 					<h6 class="card-number">**** **** **** 7362</h6>
 					<a-button type="link">
 						<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -29,7 +29,7 @@
 			</a-col>
 			<a-col :span="24" :md="12">
 				<a-card class="payment-method-card">
-					<img src="/images/logos/visa-logo.png" alt="">
+					<img src="images/logos/visa-logo.png" alt="">
 					<h6 class="card-number">**** **** **** 3288</h6>
 					<a-button type="link">
 						<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
