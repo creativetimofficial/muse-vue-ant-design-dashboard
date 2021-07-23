@@ -18,17 +18,17 @@
 					theme="light"
 					mode="horizontal"
 				>
-					<a-menu-item><a href="#">Live Preview</a></a-menu-item>
-					<a-menu-item><a href="#">Support</a></a-menu-item>
+					<a-menu-item><a href="https://demos.creative-tim.com/muse-vue-ant-design-dashboard">Live Preview</a></a-menu-item>
+					<a-menu-item><a href="https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues">Support</a></a-menu-item>
 				</a-menu>
 
 				<a-menu
 					theme="light"
 					mode="horizontal"
 				>
-					<a-menu-item><a href="#">Download Free</a></a-menu-item>
+					<a-menu-item><a href="https://www.creative-tim.com/product/muse-vue-ant-design-dashboard">Download Free</a></a-menu-item>
 				</a-menu>
-				<a-button type="primary" href="https://creative-tim.com/" target="_blank" icon="download" class="mx-20">Upgrade To PRO</a-button>
+				<a-button type="primary" href="javascript:;" target="_blank" icon="download" class="mx-20">Upgrade To PRO</a-button>
 			</div>
 
 		</a-layout-header>
