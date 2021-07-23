@@ -47,17 +47,17 @@
 							<span class="label">Getting started</span>
 						</template>
 						<a-menu-item>
-							<NuxtLink to="/overview/vue-ant-design-dashboard/">Overview
+							<NuxtLink to="/overview">Overview
 							</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/license/vue-ant-design-dashboard/">License</NuxtLink>
+							<NuxtLink to="/license">License</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/quick-start/vue-ant-design-dashboard/">Quick Start <!-- <a-tag>PRO</a-tag> --> </NuxtLink>
+							<NuxtLink to="/quick-start">Quick Start <!-- <a-tag>PRO</a-tag> --> </NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/what-is-ant/vue-ant-design-dashboard/">What is Ant</NuxtLink>
+							<NuxtLink to="/what-is-ant">What is Ant</NuxtLink>
 						</a-menu-item>
 					</a-menu-item-group>
 					<a-menu-item-group>
@@ -72,13 +72,13 @@
 							<span class="label">Foundation</span>
 						</template>
 						<a-menu-item>
-							<NuxtLink to="/foundation/colors/vue-ant-design-dashboard/">Colors</NuxtLink>
+							<NuxtLink to="/foundation/colors">Colors</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/foundation/icons/vue-ant-design-dashboard/">Icons</NuxtLink>
+							<NuxtLink to="/foundation/icons">Icons</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/foundation/typography/vue-ant-design-dashboard/">Typography</NuxtLink>
+							<NuxtLink to="/foundation/typography">Typography</NuxtLink>
 						</a-menu-item>
 					</a-menu-item-group>
 					<a-menu-item-group>
@@ -92,43 +92,43 @@
 							<span class="label">Components</span>
 						</template>
 						<a-menu-item>
-							<NuxtLink to="/components/alert/vue-ant-design-dashboard/">Alert</NuxtLink>
+							<NuxtLink to="/components/alert">Alert</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/avatar/vue-ant-design-dashboard/">Avatar</NuxtLink>
+							<NuxtLink to="/components/avatar">Avatar</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/badge/vue-ant-design-dashboard/">Badge</NuxtLink>
+							<NuxtLink to="/components/badge">Badge</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/buttons/vue-ant-design-dashboard/">Buttons</NuxtLink>
+							<NuxtLink to="/components/buttons">Buttons</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/card/vue-ant-design-dashboard/">Card</NuxtLink>
+							<NuxtLink to="/components/card">Card</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/collapse/vue-ant-design-dashboard/">Collapse</NuxtLink>
+							<NuxtLink to="/components/collapse">Collapse</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/modal/vue-ant-design-dashboard/">Modal</NuxtLink>
+							<NuxtLink to="/components/modal">Modal</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/popover/vue-ant-design-dashboard/">Popover</NuxtLink>
+							<NuxtLink to="/components/popover">Popover</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/progress/vue-ant-design-dashboard/">Progress</NuxtLink>
+							<NuxtLink to="/components/progress">Progress</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/table/vue-ant-design-dashboard/">Table</NuxtLink>
+							<NuxtLink to="/components/table">Table</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/tabs/vue-ant-design-dashboard/">Tabs</NuxtLink>
+							<NuxtLink to="/components/tabs">Tabs</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/timeline/vue-ant-design-dashboard/">Timeline</NuxtLink>
+							<NuxtLink to="/components/timeline">Timeline</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/components/tooltip/vue-ant-design-dashboard/">Tooltip</NuxtLink>
+							<NuxtLink to="/components/tooltip">Tooltip</NuxtLink>
 						</a-menu-item>
 					</a-menu-item-group>
 					<a-menu-item-group>
@@ -141,10 +141,10 @@
 							<span class="label">Layout</span>
 						</template>
 						<a-menu-item>
-							<NuxtLink to="/layout/grid/vue-ant-design-dashboard/">Grid</NuxtLink>
+							<NuxtLink to="/layout/grid">Grid</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/layout/layout/vue-ant-design-dashboard/">Layout</NuxtLink>
+							<NuxtLink to="/layout/layout">Layout</NuxtLink>
 						</a-menu-item>
 					</a-menu-item-group>
 					<a-menu-item-group>
@@ -157,16 +157,16 @@
 							<span class="label">Navigation</span>
 						</template>
 						<a-menu-item>
-							<NuxtLink to="/navigation/affix/vue-ant-design-dashboard/">Affix</NuxtLink>
+							<NuxtLink to="/navigation/affix">Affix</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/navigation/dropdown/vue-ant-design-dashboard/">Dropdown</NuxtLink>
+							<NuxtLink to="/navigation/dropdown">Dropdown</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/navigation/menu/vue-ant-design-dashboard/">Menu</NuxtLink>
+							<NuxtLink to="/navigation/menu">Menu</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/navigation/pagination/vue-ant-design-dashboard/">Pagination</NuxtLink>
+							<NuxtLink to="/navigation/pagination">Pagination</NuxtLink>
 						</a-menu-item>
 					</a-menu-item-group>
 					<a-menu-item-group>
@@ -179,25 +179,25 @@
 							<span class="label">Data Entry</span>
 						</template>
 						<a-menu-item>
-							<NuxtLink to="/data-entry/checkbox/vue-ant-design-dashboard/">Checkbox <!-- <a-tag>PRO</a-tag> --> </NuxtLink>
+							<NuxtLink to="/data-entry/checkbox">Checkbox <!-- <a-tag>PRO</a-tag> --> </NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/data-entry/form/vue-ant-design-dashboard/">Form</NuxtLink>
+							<NuxtLink to="/data-entry/form">Form</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/data-entry/input/vue-ant-design-dashboard/">Input</NuxtLink>
+							<NuxtLink to="/data-entry/input">Input</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/data-entry/radio/vue-ant-design-dashboard/">Radio</NuxtLink>
+							<NuxtLink to="/data-entry/radio">Radio</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/data-entry/select/vue-ant-design-dashboard/">Select</NuxtLink>
+							<NuxtLink to="/data-entry/select">Select</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/data-entry/switch/vue-ant-design-dashboard/">Switch</NuxtLink>
+							<NuxtLink to="/data-entry/switch">Switch</NuxtLink>
 						</a-menu-item>
 						<a-menu-item>
-							<NuxtLink to="/data-entry/upload/vue-ant-design-dashboard/">Upload</NuxtLink>
+							<NuxtLink to="/data-entry/upload">Upload</NuxtLink>
 						</a-menu-item>
 					</a-menu-item-group>
 				</a-menu>
