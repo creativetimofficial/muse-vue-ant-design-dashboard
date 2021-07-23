@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Muse Dashboard Documentation | Creative Tim',
+    title: 'Muse Vue Ant Design Documentation | Creative Tim',
     htmlAttrs: {
       lang: 'en'
     },
@@ -39,22 +39,13 @@ export default {
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
   router: { 
-		// base: '/docs/', // Comment out in development
-		trailingSlash: true,
+		base: '/muse-vue-ant-design-dashboard/documentation/', // Comment out in development
+		trailingSlash: false,
 		extendRoutes(routes, resolve) { // Add "/vue-ant-design-dashboard/" to each route's path.
-			for( let i = 0 ; i < routes.length ; i++ ) {
-				let path = routes[ i ].path ;
-
-				if( path.endsWith("/") ) {
-					path = path.substring(0, path.length - 1) ;
-				}
-				path += "/vue-ant-design-dashboard/" ;
-				routes[ i ].path = path ;
-			}
 			routes.push({
 				path: '/',
 				name: 'Home',
-				redirect: '/overview/vue-ant-design-dashboard/',
+				redirect: '/overview',
 			})
 		}
   	}
