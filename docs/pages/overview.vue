@@ -3,7 +3,7 @@
 		<div class="page-row">
 			<div class="page-content">
 				<section class="mb-24" id="Introduction">
-					<h1>Muse Admin Dashboard - Ant Design Vue</h1>
+					<h1>Muse Vue Ant Design Dashboard</h1>
 					<p class="text-dark">
 						A user-friendly, open source and beautiful dashboard based on Ant Design Vue.
 					</p>
@@ -88,7 +88,7 @@
 export default {
 	head () {
 		return {
-			title: 'Muse Admin Dashboard - Ant Design Vue | Creative Tim',
+			title: 'Muse Vue Ant Design Dashboard | Creative Tim',
 			meta: [
 				{ hid: 'description', name: 'description', content: 'A user-friendly, open source and beautiful dashboard based on Ant Design Vue.' }
 			]
