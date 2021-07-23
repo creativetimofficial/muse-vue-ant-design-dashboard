@@ -19,7 +19,7 @@
 			</a-col>
 			<a-col class="col-img" :span="24" :xl="12">
 				<div class="card-img-bg">
-					<img src="~@/assets/info-card-1.jpg" alt="">
+					<img src="images/info-card-1.jpg" alt="">
 				</div>
 			</a-col>
 		</a-row>
