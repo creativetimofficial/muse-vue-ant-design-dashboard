@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/navigation/pagination/vue-ant-design-dashboard", {data:[{}],fetch:{},mutations:void 0});
