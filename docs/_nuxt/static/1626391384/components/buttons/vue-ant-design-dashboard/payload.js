@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/components/buttons/vue-ant-design-dashboard", {data:[{}],fetch:{},mutations:void 0});

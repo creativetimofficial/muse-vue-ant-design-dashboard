@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/data-entry/form/vue-ant-design-dashboard", {data:[{}],fetch:{},mutations:void 0});
