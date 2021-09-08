@@ -129,6 +129,10 @@
 			</div>
 			<!-- / Sidebar Footer -->
 
+			<a-button type="primary" href="https://www.creative-tim.com/product/muse-vue-ant-design-dashboard-pro" block target="_blank">
+				UPGRADE TO PRO
+			</a-button>
+
 	</a-layout-sider>
 	<!-- / Main Sidebar -->
 
