@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/muse-vue-ant-design-dashboard.svg)](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/muse-vue-ant-design-dashboard.svg)](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/494/thumb/opt_md_ant_thumbnail.jpg)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/494/original/opt_md_ant_thumbnail.jpg)
 
 Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized
 
