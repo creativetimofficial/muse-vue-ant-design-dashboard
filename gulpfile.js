@@ -5,7 +5,7 @@ const gulp = require("gulp"),
   product_name = "Muse Vue Ant Design",
   product_version = "1.0.0",
   year = "2021",
-  product_link = "https://www.creative-tim.com/product/muse-vue-ant-design",
+  product_link = "https://www.creative-tim.com/product/muse-vue-ant-design-dashboard",
   product_copyright_template =
     `/*!
   ​
