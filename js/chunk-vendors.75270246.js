@@ -4,7 +4,7 @@
   * Muse Vue Ant Design - v1.0.0
   =========================================================
 
-  * Product Page: https://www.creative-tim.com/product/muse-vue-ant-design
+  * Product Page: https://www.creative-tim.com/product/muse-vue-ant-design-dashboard
   * Copyright 2021 Creative Tim (https://www.creative-tim.com)
   * MIT License
 
