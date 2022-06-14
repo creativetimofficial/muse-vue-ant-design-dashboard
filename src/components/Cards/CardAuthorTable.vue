@@ -17,7 +17,7 @@
 		</template>
 		<a-table :columns="columns" :data-source="data" :pagination="false">
 
-			<template slot="author" slot-scope="author">
+			<template #author="{author}">
 				<div class="table-avatar-info">
 					<a-avatar shape="square" :src="author.avatar" />
 					<div class="avatar-info">
@@ -27,20 +27,20 @@
 				</div>
 			</template>
 
-			<template slot="func" slot-scope="func">
+			<template #func="{func}">
 				<div class="author-info">
 					<h6 class="m-0">{{ func.job }}</h6>
 					<p class="m-0 font-regular text-muted">{{ func.department }}</p>
 				</div>
 			</template>
 
-			<template slot="status" slot-scope="status">
+			<template #status="{status}">
 				<a-tag class="tag-status" :class="status ? 'ant-tag-primary' : 'ant-tag-muted'">
 					{{ status ? "ONLINE" : "OFFLINE" }}
 				</a-tag>
 			</template>
 
-			<template slot="editBtn" slot-scope="row">
+			<template #editBtn="{row}">
 				<a-button type="link" :data-id="row.key" class="btn-edit">
 					Edit
 				</a-button>

@@ -1,3 +1,11 @@
+<!--
+ * @Author: zhanggen 1519149300@qq.com
+ * @Date: 2022-06-14 11:14:08
+ * @LastEditors: zhanggen 1519149300@qq.com
+ * @LastEditTime: 2022-06-14 11:38:06
+ * @FilePath: \muse-vue-ant-design-dashboard\src\components\Cards\CardProjectTable.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <template>
 				
 	<!-- Projects Table Card -->
@@ -20,8 +28,8 @@
 		<a-table :columns="columns" :data-source="data" :pagination="false">
 
 			<a-space slot="members" slot-scope="members" :size="-12" class="avatar-chips">
-				<template v-for="member in members">
-					<a-avatar :key="member" size="small" :src="member" />
+				<template>
+					<a-avatar v-for="member in members" :key="member" size="small" :src="member" />
 				</template>
 			</a-space>
 

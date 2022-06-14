@@ -2,11 +2,12 @@
 
 	<!-- Project Card -->
 	<a-card class="card-project">
-		<img
-			slot="cover"
+		<template #cover>
+			<img
 			alt="example"
 			:src="cover"
 		/>
+		</template>
 		<div class="card-tag">Project #{{ id }}</div>
 		<h5>{{ title }}</h5>
 		<p>
