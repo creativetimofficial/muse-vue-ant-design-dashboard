@@ -11,7 +11,7 @@ Coded by Creative Tim
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
 */
 
-import Vue from 'vue'
+import { createApp } from 'vue'
 import Antd from 'ant-design-vue';
 import 'ant-design-vue/dist/antd.css';
 import App from './App.vue'
@@ -22,17 +22,13 @@ import router from './router'
 // import './plugins/click-away'
 
 import './scss/app.scss';
-
-Vue.use(Antd);
-
-Vue.config.productionTip = false
+const app = createApp(App)
+app.use(Antd).use(router);
+app.config.productionTip = false
 
 // Adding template layouts to the vue components.
-Vue.component("layout-default", DefaultLayout);
-Vue.component("layout-dashboard", DashboardLayout);
-Vue.component("layout-dashboard-rtl", DashboardRTLLayout);
+app.component("layout-default", DefaultLayout);
+app.component("layout-dashboard", DashboardLayout);
+app.component("layout-dashboard-rtl", DashboardRTLLayout);
 
-new Vue({
-  router,
-  render: h => h(App)
-}).$mount('#app')
+app.mount('#app')
