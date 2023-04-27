@@ -1,6 +1,6 @@
 # [Muse Vue Ant Design Dashboard](http://demos.creative-tim.com/muse-vue-ant-design-dashboard?ref=readme-sud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/muse-vue-ant-design-dashboard&text=Check%20Muse%20Vue%20Ant%20Design%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#antdesign%20#vue%20https://www.creative-tim.com/product/muse-vue-ant-design-dashboard)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/muse-vue-ant-design-dashboard.svg)](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/muse-vue-ant-design-dashboard.svg)](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/muse-vue-ant-design-dashboard.svg)](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/muse-vue-ant-design-dashboard.svg)](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/494/thumb/opt_md_ant_thumbnail.jpg)
 
@@ -44,24 +44,25 @@ Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?ref=readme-sud)
 
 | HTML |
-| --- |
+| ---- |
+
 | [![Muse Vue Ant Design Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/494/thumb/opt_md_ant_thumbnail.jpg)](http://demos.creative-tim.com/muse-vue-ant-design-dashboard?ref=readme-sud)
 
 ## Demo
@@ -84,6 +85,7 @@ Quick start options:
 2. Navigate to the root / directory and run npm install to install our local dependencies.
 
 ## Documentation
+
 The documentation for the Muse Vue Ant Design Dashboard is hosted at our [website](http://demos.creative-tim.com/muse-vue-ant-design-dashboard/documentation?ref=readme-sud).
 
 ### What's included
@@ -199,6 +201,7 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 ## Resources
+
 - [Live Preview](https://demos.creative-tim.com/muse-vue-ant-design-dashboard?ref=readme-sud)
 - [Download Page](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?ref=readme-sud)
 - Documentation is [here](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/documentation?ref=readme-sud)
@@ -207,6 +210,7 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard/issues)
 
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the Muse Vue Ant Design Dashboard. Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Muse Vue Ant Design Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?ref=readme-sud).
