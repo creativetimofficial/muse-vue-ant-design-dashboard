@@ -1,12 +1,12 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
 
-Vue.use(VueRouter)
+import { createRouter, createWebHashHistory } from 'vue-router'
+
+// Vue.use(VueRouter)
 
 let routes = [
 	{
 		// will match everything
-		path: '*',
+		path: '/:pathMatch(.*)*',
 		component: () => import('../views/404.vue'),
 	},
 	{
@@ -90,9 +90,9 @@ function addLayoutToRoute( route, parentLayout = "default" )
 
 routes = routes.map( ( route ) => addLayoutToRoute( route ) ) ;
 
-const router = new VueRouter({
+const router = createRouter({
 	mode: 'hash',
-	base: process.env.BASE_URL,
+	history: createWebHashHistory(),//process.env.BASE_URL
 	routes,
 	scrollBehavior (to, from, savedPosition) {
 		if ( to.hash ) {

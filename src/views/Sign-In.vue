@@ -16,24 +16,26 @@
 				<!-- Sign In Form -->
 				<a-form
 					id="components-form-demo-normal-login"
-					:form="form"
+					:model="form"
+					ref="form"
 					class="login-form"
+					:labelCol="labelCol"
+					@finish="handleFinish"
+    				@validate="handleValidate"
 					@submit="handleSubmit"
 					:hideRequiredMark="true"
 				>
 					<a-form-item class="mb-10" label="Email" :colon="false">
 						<a-input 
-						v-decorator="[
-						'email',
-						{ rules: [{ required: true, message: 'Please input your email!' }] },
-						]" placeholder="Email" />
+						v-model="form.email"
+						:rules="[{ required: true, message: 'Please input your email!' }]"
+						 placeholder="Email" />
 					</a-form-item>
 					<a-form-item class="mb-5" label="Password" :colon="false">
 						<a-input
-						v-decorator="[
-						'password',
-						{ rules: [{ required: true, message: 'Please input your password!' }] },
-						]" type="password" placeholder="Password" />
+						v-model="form.password"
+						:rules="[{ required: true, message: 'Please input your password!' }]"
+						type="password" placeholder="Password" />
 					</a-form-item>
 					<a-form-item class="mb-10">
     					<a-switch v-model="rememberMe" /> Remember Me
@@ -68,17 +70,26 @@
 			return {
 				// Binded model property for "Sign In Form" switch button for "Remember Me" .
 				rememberMe: true,
+				labelCol: { style: { width: '70px' } },
+				form: {
+					email: '',
+					password:''
+				}
 			}
 		},
 		beforeCreate() {
 			// Creates the form and adds to it component's "form" property.
-			this.form = this.$form.createForm(this, { name: 'normal_login' });
+			// this.form = this.$refs.form.createForm(this, { name: 'normal_login' });
 		},
 		methods: {
 			// Handles input validation after submission.
+			handleFinish() {},
+			handleValidate(...args) {
+				console.log(args);
+			},
 			handleSubmit(e) {
 				e.preventDefault();
-				this.form.validateFields((err, values) => {
+				this.$refs.form.validateFields((err, values) => {
 					if ( !err ) {
 						console.log('Received values of form: ', values) ;
 					}

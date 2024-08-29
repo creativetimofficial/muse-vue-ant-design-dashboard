@@ -57,7 +57,7 @@
 				<a-button type="secondary" href="https://demos.creative-tim.com/muse-vue-ant-design-dashboard/documentation" block target="_blank">VIEW DOCUMENTATION</a-button>
 			</div>
 			<div class="github-stars">
-				<gh-btns-star slug="creativetimofficial/muse-vue-ant-design-dashboard" show-count></gh-btns-star>
+				<!-- <gh-btns-star slug="creativetimofficial/muse-vue-ant-design-dashboard" show-count></gh-btns-star> -->
 			</div>
 			<div class="sharing">
 				<h6>Thank you for sharing!</h6>
@@ -81,10 +81,10 @@
 </template>
 
 <script>
-	import 'vue-github-buttons/dist/vue-github-buttons.css'; // Stylesheet
-	import VueGitHubButtons from 'vue-github-buttons';
+	// import 'vue-github-buttons/dist/vue-github-buttons.css'; // Stylesheet
+	// import VueGitHubButtons from 'vue-github-buttons';
 	import Vue from 'vue';
-	Vue.use(VueGitHubButtons, { useCache: true });
+	// Vue.use(VueGitHubButtons, { useCache: true });
 
 	export default ({
 		props: {
